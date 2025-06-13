@@ -27,7 +27,7 @@ jobs:
           hugo-version: '0.147.8'
           extended: true
       - run: pwd;ls -l
-      - run: hugo --baseURL https://${REPO_OWNER}.github.io/${REPO_NAME} --minify
+      - run: hugo --minify
 
       - run: pwd;ls -l;ls -l public/
 

@@ -41,6 +41,6 @@ defaultContentLanguage = 'en'
   section = ['html', 'rss', 'print']
   page = ['html', 'rss', 'print']
 
-module:
-  imports:
-  - path: github.com/McShelby/hugo-theme-relearn
+[module]
+  [[module.imports]]
+    path = 'github.com/McShelby/hugo-theme-relearn'

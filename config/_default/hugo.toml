@@ -19,7 +19,7 @@ relativeURLs = true # true -> rewrite all site-relative URLs (those with a leadi
 # from within the Relearn theme; you need to delete or change it, if you copy the
 # exampleSite to somewhere outside the themes directory - which is strongly
 # recommended if you want to use it as a starting point for your project
-themesdir = 'themes/'
+# themesdir = 'themes/'
 # yeah, well, obviously a mandatory setting for your site, if you want to
 # use this theme ;
 theme = 'hugo-theme-relearn'
@@ -40,3 +40,7 @@ defaultContentLanguage = 'en'
   home = ['html', 'rss', 'print']
   section = ['html', 'rss', 'print']
   page = ['html', 'rss', 'print']
+
+module:
+  imports:
+  - path: github.com/McShelby/hugo-theme-relearn

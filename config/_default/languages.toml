@@ -4,8 +4,6 @@
   languageCode = 'en'
   languageName = 'English'
   contentDir = 'content'
-  [en.params]
-    landingPageName = '<i class="fa-fw fas fa-anchor"></i> Home'
 
 [[en.menu.shortcuts]]
   pre = '<i class="fa fa-rocket" style="color: white;"></i> '

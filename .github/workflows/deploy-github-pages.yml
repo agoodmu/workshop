@@ -27,7 +27,6 @@ jobs:
           hugo-version: '0.147.8'
           extended: true
 
-      - run: npm ci
       - run: hugo --baseURL https://${REPO_OWNER}.github.io/${REPO_NAME} --minify
 
       - name: Deploy

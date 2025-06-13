@@ -14,13 +14,13 @@
     landingPageName = '<i class="fa-fw fas fa-anchor"></i> Home'
 
 [[en.menu.shortcuts]]
-  pre = '<i class="fa-fw fas fa-puzzle-piece"></i> '
+  pre = '<i class="fa fa-rocket" style="color: blue;"></i> '
   name = 'Blog'
   url = 'https://walker.muismu.com/'
   weight = 10
 
 [[en.menu.shortcuts]]
-  pre = '<i class="fa-fw fab fa-github"></i> '
+  pre = '<i class="fa fa-book" style="color: blue;"></i> '
   name = 'Tutorial'
   url = 'https://tutorial.muismu.com'
   weight = 20

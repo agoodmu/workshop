@@ -13,6 +13,11 @@ openapi.errorlevel = 'warning'
 # specific image effect for this showcase;
 imageEffects.purple = false
 
+
+# Params
+linkTitle = 'Road'
+disableLandingPageButton = false
+
 # specific variant parameter for this showcase; you have the choice
 # between many more predefined variants and even can configure your own;
 # see the themes documentation

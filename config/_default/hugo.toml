@@ -26,9 +26,6 @@ relativeURLs = true # true -> rewrite all site-relative URLs (those with a leadi
 
 defaultContentLanguage = 'en'
 
-[params]
-  linkTitle = 'Test'
-
 # add showcase-specific output formats
 [outputs]
   # `print` - activate the themes feature to print whole chapters or leaf pages

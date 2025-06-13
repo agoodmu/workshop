@@ -26,7 +26,8 @@ relativeURLs = true # true -> rewrite all site-relative URLs (those with a leadi
 
 defaultContentLanguage = 'en'
 
-linkTitle = 'Workshop'
+[params]
+  linkTitle = 'Test'
 
 # add showcase-specific output formats
 [outputs]

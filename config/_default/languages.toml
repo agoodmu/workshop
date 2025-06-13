@@ -9,7 +9,7 @@
   languageName = 'English'
   # Language dependent settings:
   # Use case https://gohugo.io/content-management/multilingual/#translation-by-content-directory
-  contentDir = 'content/en'
+  contentDir = 'content'
   [en.params]
     landingPageName = '<i class="fa-fw fas fa-anchor"></i> Home'
 

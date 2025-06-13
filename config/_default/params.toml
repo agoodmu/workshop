@@ -27,4 +27,4 @@ imageEffects.purple = false
   identifier = 'learn'
   name = 'Light'
 
-themeVariant = ['auto', 'red']
+themeVariant = ['auto']

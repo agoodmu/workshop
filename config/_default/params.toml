@@ -26,5 +26,3 @@ imageEffects.purple = false
 [[themeVariant]]
   identifier = 'learn'
   name = 'Light'
-
-themeVariant = ['auto']

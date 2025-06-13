@@ -3,7 +3,7 @@
 # fully-qualified URLs to link outside of your project
 
 [en]
-  title = 'Purple Pulpo'
+  title = 'workshop'
   weight = 1
   languageCode = 'en'
   languageName = 'English'
@@ -15,11 +15,12 @@
 
 [[en.menu.shortcuts]]
   pre = '<i class="fa-fw fas fa-puzzle-piece"></i> '
-  name = 'Relearn Docs'
-  url = 'https://mcshelby.github.io/hugo-theme-relearn/index.html'
+  name = 'Blog'
+  url = 'https://walker.muismu.com/'
   weight = 10
+
 [[en.menu.shortcuts]]
   pre = '<i class="fa-fw fab fa-github"></i> '
-  name = 'GitHub Repo'
-  url = 'https://github.com/McShelby/hugo-theme-relearn'
+  name = 'Tutorial'
+  url = 'https://tutorial.muismu.com'
   weight = 20

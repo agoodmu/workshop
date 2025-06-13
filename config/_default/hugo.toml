@@ -22,7 +22,7 @@ relativeURLs = true # true -> rewrite all site-relative URLs (those with a leadi
 # themesdir = 'themes/'
 # yeah, well, obviously a mandatory setting for your site, if you want to
 # use this theme ;
-theme = github.com/McShelby/hugo-theme-relearn
+theme = 'github.com/McShelby/hugo-theme-relearn'
 
 defaultContentLanguage = 'en'
 # if you want to get rrrid o' ourrr pirrrates nonsense uncomment th' next line

@@ -15,7 +15,7 @@ imageEffects.purple = false
 
 
 # Params
-linkTitle = 'Road'
+linkTitle = 'Workshop'
 landingPageName = '<i class="fa-fw fas fa-anchor"></i> Home'
 disableLandingPageButton = false
 showVisitedLinks = true

@@ -1,6 +1,6 @@
 +++
-linktitle = 'Infrastructure as Code'
-title = "Terraform"
+linktitle = 'Workshop'
+title = "Infrastructure as Code"
 type = "home"
 +++
 

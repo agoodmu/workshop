@@ -1,6 +1,6 @@
 +++
 title = "Infrastructure as Code"
-type = "chapter"
+type = "home"
 weight = 1
 +++
 

@@ -3,7 +3,7 @@
 # https://mcshelby.github.io/hugo-theme-relearn/configuration/reference/index.html#annotated-configuration-options
 
 # recommended theme parameter
-author.name = 'Captain Hugo'
+author.name = 'Walker Mu'
 include.errorlevel = 'warning'
 image.errorlevel = 'warning'
 externalLinkTarget = '_self'
@@ -26,3 +26,5 @@ imageEffects.purple = false
 [[themeVariant]]
   identifier = 'learn'
   name = 'Light'
+
+themeVariant = ['auto', 'red']

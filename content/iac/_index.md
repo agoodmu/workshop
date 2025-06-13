@@ -1,5 +1,5 @@
 +++
-title = "Iac"
+title = "Infrastructure as Code"
 type = "chapter"
 weight = 1
 +++
